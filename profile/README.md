@@ -7,3 +7,8 @@ This Github organisation was created to have a central place to gather all acqui
 If you have anything that can help the rests of the community; feel free to add, amend or edit the content in these repositories.
 
 Currently most information is in the [FokoosFriends Wiki](https://github.com/FokoosFriends/docs/wiki).
+
+Other parts of the community can be found here:
+- [Official Facebook Group](https://www.facebook.com/groups/fokoos)
+- [Discord server](https://discord.gg/tVk3KSQN)
+- [Reddit](https://www.reddit.com/r/FOKOOS_3D_Printing/)
