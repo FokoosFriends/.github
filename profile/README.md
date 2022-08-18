@@ -12,5 +12,5 @@ Currently most information is in the [FokoosFriends Wiki](https://github.com/Fok
 ## Fokoos communities
 Other parts of the community can be found here:
 - [Official Facebook Group](https://www.facebook.com/groups/fokoos)
-- [Discord server](https://discord.gg/tVk3KSQN)
+- [Discord server](https://discord.gg/WdNzvt3f4s)
 - [Reddit](https://www.reddit.com/r/FOKOOS_3D_Printing/)
